@@ -8,7 +8,7 @@ Here, I am providing a list of projects covered so far with DataCamp:
 ### Investigating Netflix Movies and Guest Stars in The Office- Unguided Project, DataCamp 
 * **Code/File:** Go to File
 * **Source/Course:** DataCamp
-* **Description:** In this project, we explored if Netflix’s movies are getting shorter over time. This project covers following steps: creating pandas dataframe from dictionary, creating line plot, loading data from csv file as a DataFrame, subsetting DataFrame based on condition (movies only)  and selecting selected columns, creating scatter plot, further subsetting data to examine short movies under 60 minutes 
+* **Description:** In this project, we explored if Netflix’s movies are getting shorter over time and conducted some exploratory data analysis using python and its libraries; pandas andmatplotlib. This project covers following steps: creating pandas dataframe from dictionary, creating line plot, loading data from csv file as a DataFrame, subsetting DataFrame based on condition (movies only)  and selecting selected columns, creating scatter plot, further subsetting data to examine short movies under 60 minutes 
 * **Topics Covered/Skills:** Foundational Python skills, exploratory data analysis, working with raw data, visualization
 * **Technology:**  Python, matplotlib, pandas
 * **Result:** Non-feature films are generally of shorter duration.
