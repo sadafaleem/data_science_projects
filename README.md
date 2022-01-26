@@ -24,9 +24,11 @@ This project covers following steps: loading data from csv file, getting insight
 * **Technology:**  Python, matplotlib, pandas
 * **Result:** Non-feature films are generally of shorter duration.
 
-
-### Analyzing TV Data -using Python, DataCamp
-### Exploring the History of Lego -Python- Unguided Project, DataCamp
-### Exploring the History of Lego - Python - Guided Project, DataCamp
-### Analyze International Debt Statistics - Using SQL– Guided Project - DataCamp
 ###	What and Where Are the World's Oldest Businesses? – using SQL -Guided Project , DataCamp
+* **Code/File:** [Go to File](https://github.com/sadafaleem/data_science_projects/tree/main/What%20and%20Where%20Are%20the%20World's%20Oldest%20Businesses_SQL)
+* **Source/Course:** DataCamp
+* **Description:** This project involves exploring data on worlds's oldest businesses. The data is taken from BusinessFinancing.co.uk. The project involves answering questions such as when were oldest businesses founded and to which industry do they belong to.
+* **Topics Covered/Skills:** This project covers following steps: querying data, joining tables, manipulation tools such as grouping and filtering
+* **Technology:** SQL
+* **Result:** Six business were founded before 1000. Oldest business belonged to Construction category.
+
